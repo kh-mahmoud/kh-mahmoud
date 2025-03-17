@@ -2,9 +2,6 @@
 Full Stack JavaScript Developer with a deep passion for crafting innovative and user-focused web applications. I specialize in both front-end and back-end development, using technologies like React, Node.js, Next.js, and Express to build robust, scalable solutions. <br>
 My goal is to tackle real-world challenges with efficient, high-performance code. I’m also passionate about exploring new technologies, and learning Ai, to enhance my skillset and bring fresh ideas to my work. <br> I love collaborating on  projects that push the boundaries of web development and turn creative concepts into reality.
 
-<center>
-  <img height=250 width=200 src='https://github.com/user-attachments/assets/208061f6-674f-4f25-a727-fc6952400589'/>
-</center>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/khouchane-mahmoud) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MahmoudM79454) 
