@@ -20,3 +20,12 @@ My goal is to tackle real-world challenges with efficient, high-performance code
 ![](https://github-contributor-stats.vercel.app/api?username=kh-mahmoud&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kh-mahmoud&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+I have accepted 2 120 completions in 9 different coding languages using Codeium from www.codeium.com
+
+<a href="https://codeium.com/profile/tragically-handy-mule-91814"><img src='https://github.com/user-attachments/assets/33582dcc-083a-4ab2-9dae-2c0ffbd1eb59' /></a>
+
+
+
+
