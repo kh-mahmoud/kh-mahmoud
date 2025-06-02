@@ -1,8 +1,10 @@
+
+![dev](https://github.com/user-attachments/assets/eb2f9fa4-8230-4a98-8444-f99c5b77456d)
+
 # 💫 About Me:
-Full Stack JavaScript Developer with a deep passion for crafting innovative and user-focused web applications. I specialize in both front-end and back-end development, using technologies like React, Node.js, Next.js, and Express to build robust, scalable solutions. <br>
-My goal is to tackle real-world challenges with efficient, high-performance code. I’m also passionate about exploring new technologies, and learning Ai, to enhance my skillset and bring fresh ideas to my work. <br> I love collaborating on  projects that push the boundaries of web development and turn creative concepts into reality.
+Full Stack web Developer dedicated to building high-performance, user-centric web applications. I specialize in modern technologies like React, Node.js, Next.js, and Express to deliver scalable and maintainable solutions. Passionate about solving real-world problems with clean, efficient code, and continuously exploring AI and emerging technologies to stay ahead.
 
-
+<b>🚀 From vision to execution — with code that delivers 🚀</b>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/khouchane-mahmoud) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MahmoudM79454) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/916447640693116948)
