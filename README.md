@@ -1,10 +1,23 @@
 
 ![dev](https://github.com/user-attachments/assets/eb2f9fa4-8230-4a98-8444-f99c5b77456d)
 
-# 💫 About Me:
-Full Stack web Developer dedicated to building high-performance, user-centric web applications. I specialize in modern technologies like React, Node.js, Next.js, and Express to deliver scalable and maintainable solutions. Passionate about solving real-world problems with clean, efficient code, and continuously exploring AI and emerging technologies to stay ahead.
+# 🔥 Meet the Developer
 
-<b>🚀 From vision to execution — with code that delivers 🚀</b>
+<p align="justify">
+  <img src="https://github.com/user-attachments/assets/d6dfadcb-2641-47ce-b0fe-668f9bf78b22" align="right" width="250" style="margin-left:15px; border-radius:12px;" />
+
+Full Stack Web Developer dedicated to building high-performance, user-centric web applications. I specialize in modern technologies like <b>React, Node.js, Next.js, and Express</b> to deliver scalable and maintainable solutions.  
+
+Passionate about solving real-world problems with clean, efficient code, and continuously exploring <b>AI and emerging technologies</b> to stay ahead.  
+
+  <br/><br/>
+  <b>🚀 From vision to execution — with code that delivers 🚀</b>
+</p>
+
+<br clear="all"/>
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/khouchane-mahmoud) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MahmoudM79454) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/916447640693116948)
