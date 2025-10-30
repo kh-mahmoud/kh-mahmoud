@@ -8,7 +8,7 @@
 
 Full Stack Web Developer dedicated to building high-performance, user-centric web applications. I specialize in modern technologies like <b>React, Node.js, Next.js, and Express</b> to deliver scalable and maintainable solutions.  
 
-Passionate about solving real-world problems with clean, efficient code, and continuously exploring <b>AI and emerging technologies</b> to stay ahead.  
+Passionate about solving real-world problems with clean, efficient code, and continuously exploring <b>AI and emerging technologies</b> to stay ahead of the curve..  
 
   <br/><br/>
   <b>🚀 From vision to execution — with code that delivers 🚀</b>
